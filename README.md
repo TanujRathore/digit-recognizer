@@ -1,6 +1,6 @@
 # Digit Recognition Project using CNN in Google Colab
 
-![Digit Recognition](https://example.com/digit_recognition.png)
+![Digit Recognition]
 
 This repository contains the code for a digit recognition project using Convolutional Neural Networks (CNN) implemented in Python, with the dataset downloaded from the Kaggle competition. The CNN model is designed to recognize and classify hand-drawn digits from 0 to 9.
 
